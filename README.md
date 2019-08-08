@@ -3,10 +3,10 @@
 ## API
 
 Cliente (Client)
-Garçon (pedidos, levar seus pedidos, para a cozinha) (API)
+Garçom (pedidos, levar seus pedidos, para a cozinha) (API)
 Cozinha (Server)
 
-Acronimo de Application Programming Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, para que outras aplicações possam utilizar as funcionalidades desta aplicação.
+Acrônimo de Application Programming Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, para que outras aplicações possam utilizar as funcionalidades desta aplicação.
 
 - Responsável por estabelecer comunicação entre diferentes serviços.
 - Meio de campo entre as tecnologias.
@@ -14,15 +14,15 @@ Acronimo de Application Programming Interface (Interface de Programação de Apl
 
 ## REST
 
-um acrônimo para REpresentational State Transfer ( Transferência de Estado Representativo).
+um acrônimo para REpresentational State Transfer (Transferência de Estado Representativo).
 
 Será feita a transferência de dados de uma maneira simbólica, figurativa, representativa, de maneira didática.
 
 A transferência de dados, geralmente, usando o protocolo HTTP.
 
-O Rest, delimita algumas obrigações nessas transferências de dados.
+O REST delimita algumas obrigações nessas transferências de dados.
 
-Resources seria então, uma entidade, um objeto.
+Resources seria então: Uma entidade ou um objeto.
 
 ### 6 NECESSIDADES (constraints) para ser RESTful
 
@@ -34,7 +34,7 @@ Resources seria então, uma entidade, um objeto.
 
 - _Layered System_: O cliente acessa a um endpoint, sem precisar saber da complexidade, de quais passos estão sendo necessários para o servidor responder a requisição, ou quais outras camadas o servidor estará lidando, para que a requisição seja respondida.
 
-- _Code on demand (optional)_: Dá a possibilita da nossa aplicação pegar códigos, como o javascript, por exemplo, e executar no cliente;
+- _Code on demand (optional)_: Dá a possibilidade da nossa aplicação pegar códigos, como o javascript, por exemplo, e executar no cliente.
 
 ## RESTFUL
 
