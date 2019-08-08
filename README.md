@@ -14,7 +14,7 @@ Acrônimo de Application Programming Interface (Interface de Programação de Ap
 
 ## REST
 
-um acrônimo para REpresentational State Transfer (Transferência de Estado Representativo).
+Um acrônimo para Representational State Transfer (Transferência de Estado Representativo).
 
 Será feita a transferência de dados de uma maneira simbólica, figurativa, representativa, de maneira didática.
 
